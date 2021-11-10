@@ -1,1 +1,10 @@
 // Nothing here. Just use the default theme.
+// Import the typography styles.
+//
+// MDC Typography
+//
+@use "@material/typography/mdc-typography";
+
+.container {
+  padding: 30px;
+}
